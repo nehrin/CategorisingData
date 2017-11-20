@@ -1,0 +1,11 @@
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.csprojResolveAssemblyReference.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.csproj.CoreCompileInputs.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.AssemblyInfoInputs.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.AssemblyInfo.cs
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\bin\Debug\netcoreapp2.0\CategorisingData2.deps.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\bin\Debug\netcoreapp2.0\CategorisingData2.runtimeconfig.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\bin\Debug\netcoreapp2.0\CategorisingData2.runtimeconfig.dev.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\bin\Debug\netcoreapp2.0\CategorisingData2.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\bin\Debug\netcoreapp2.0\CategorisingData2.pdb
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingData2\obj\Debug\netcoreapp2.0\CategorisingData2.pdb
