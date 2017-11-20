@@ -1,0 +1,16 @@
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingDataTest.deps.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingDataTest.runtimeconfig.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingDataTest.runtimeconfig.dev.json
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingDataTest.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingDataTest.pdb
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingData2.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\bin\Debug\netcoreapp2.0\CategorisingData2.pdb
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.csprojResolveAssemblyReference.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.csproj.CoreCompileInputs.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.AssemblyInfoInputs.cache
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.AssemblyInfo.cs
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.dll
+C:\Users\Nehrin\source\repos\CategorisingData2\CategorisingDataTest\obj\Debug\netcoreapp2.0\CategorisingDataTest.pdb
